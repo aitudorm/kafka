@@ -1,4 +1,4 @@
-![6_a_connection_to_mysql_docker](https://github.com/aitudorm/kafka/assets/77835933/b2fba5b4-9ed9-4365-ac56-c2f53e734f37)## Setting Up Environments
+## Setting Up Environments
 ![1](https://github.com/aitudorm/kafka/assets/77835933/7f8e252f-4099-4914-81c4-ed211de00465)\
 ![1_Kafka_Connection](https://github.com/aitudorm/kafka/assets/77835933/3835d03a-9c99-4257-890c-3290a562a94d)
 
